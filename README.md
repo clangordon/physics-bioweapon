@@ -23,5 +23,11 @@ cd ~/physics-bioweapon
 ```
 python3 physicsbioweapon.py
 ```
+```
+% python3 physicsbioweapon.py
+Clan Gordon Physics Bioweapon
+Licensed under the AGPLv3
+Secret ENV variables are commercially available on request
+```
 
 
