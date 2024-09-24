@@ -30,4 +30,9 @@ Licensed under the AGPLv3
 Secret ENV variables are commercially available on request
 ```
 
-
+## ENV variable examples
+```
+PHYSICS_BIOWEAPON_WATER_RESONANT_FREQ=XXX
+PHYSICS_BIOWEAPON_BIOACOUSTIC_RESONANT_FREQS=XXX
+PHYSICS_BIOWEAPON_CARDIAC_ARREST=XXX
+```
