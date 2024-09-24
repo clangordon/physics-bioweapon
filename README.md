@@ -2,6 +2,8 @@
 
 Clan Gordon Physics Bioweapon is a free software licensed software-defined weapon.
 
+Commercial licensing will be available. The Clan Gordon Physics Bioweapon can be embedded into existing technology with relative ease. An affordable defensive weapon which can be easily concealed.
+
 ![Clan Gordon](img/Clan-Gordon-Wreaking-Havoc-Since-The-Middle-Ages.jpg)
 ![Educational Decree](img/Educational-Decree-Girls-Are-Not-Permitted-To-Be-Within-8-5-INCHES-21-59cm-Of-Andrew-Google-Photos.png)
 ![I am not someone who is loved](img/I-am-not-someone-who-is-loved.jpg)
