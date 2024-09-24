@@ -3,6 +3,8 @@
 Clan Gordon Physics Bioweapon is a free software licensed software-defined weapon.
 
 ![Clan Gordon](img/Clan-Gordon-Wreaking-Havoc-Since-The-Middle-Ages.jpg)
+![Educational Decree](img/Educational-Decree-Girls-Are-Not-Permitted-To-Be-Within-8-5-INCHES-21-59cm-Of-Andrew-Google-Photos.png)
+![I am not someone who is loved](img/I-am-not-someone-who-is-loved.jpg)
 
 COMING SOON!! You will need:
 * a software-defined radio (covering 2.45Ghz)
