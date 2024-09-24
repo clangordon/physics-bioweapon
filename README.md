@@ -41,4 +41,18 @@ PHYSICS_BIOWEAPON_BIOACOUSTIC_RESONANT_FREQS=XXX
 PHYSICS_BIOWEAPON_CARDIAC_ARREST=XXX
 ```
 
-Copyright (C) 2021-2024 Andrew James Potter.
+
+## Motivation
+```
+I don't care if your world is ending today
+I wasn't invited to it anyway
+You said I tasted famous, so I drew you a heart
+But now I'm not an artist I'm a f-cking work of art
+I've got an F and a C and I got a K too
+And the only thing missing is a bitch like you
+
+What's my name, what's my name?
+Hold the S because I am an ain't
+
+Marilyn Manson - (s)AINT
+```
