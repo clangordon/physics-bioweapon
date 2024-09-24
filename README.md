@@ -1,7 +1,6 @@
 # physics-bioweapon
 
 Clan Gordon Physics Bioweapon is a free software licensed software-defined weapon.
-Copyright (C) 2021-2024 Andrew James Potter.
 
 ![Clan Gordon](img/Clan-Gordon-Wreaking-Havoc-Since-The-Middle-Ages.jpg)
 
@@ -37,3 +36,5 @@ PHYSICS_BIOWEAPON_WATER_RESONANT_FREQ=XXX
 PHYSICS_BIOWEAPON_BIOACOUSTIC_RESONANT_FREQS=XXX
 PHYSICS_BIOWEAPON_CARDIAC_ARREST=XXX
 ```
+
+Copyright (C) 2021-2024 Andrew James Potter.
