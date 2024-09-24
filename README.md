@@ -1,4 +1,4 @@
-# physics-bioweapon
+# Clan Gordon Physics Bioweapon
 
 Clan Gordon Physics Bioweapon is a free software licensed software-defined weapon.
 
