@@ -43,6 +43,9 @@ PHYSICS_BIOWEAPON_CARDIAC_ARREST=XXX
 
 
 ## Motivation
+
+![Tainted Love](img/The-love-we-share-seems-to-go-nowhere-This-tainted-love-you-ve-given-I-ll-give-you-all-a-boy-could-give-you.png)
+
 ```
 I don't care if your world is ending today
 I wasn't invited to it anyway
