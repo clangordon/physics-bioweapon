@@ -13,6 +13,12 @@ print("Secret ENV variables are commercially available on request")
 cardiac_arrest = os.environ.get("PHYSICS_BIOWEAPON_CARDIAC_ARREST")
 print(cardiac_arrest)
 
+initial_heart_rate = os.environ.get("PHYSICS_BIOWEAPON_INITIAL_HEART_RATE")
+print(initial_heart_rate)
+
+heart_rate_failure = os.environ.get("PHYSICS_BIOWEAPON_HEART_RATE_FAILURE")
+print(heart_rate_failure)
+
 water_resonant_freq = os.environ.get("PHYSICS_BIOWEAPON_WATER_RESONANT_FREQ")
 print(water_resonant_freq)
 
