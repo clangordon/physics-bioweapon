@@ -18,3 +18,9 @@ print(water_resonant_freq)
 
 bioacoustic_resonant_freqs = os.environ.get("PHYSICS_BIOWEAPON_BIOACOUSTIC_RESONANT_FREQS")
 print(bioacoustic_resonant_freqs)
+
+if(cardiac_arrest):
+  print("Cardiac arrest")
+
+if(bioacoustic_resonant_freqs):
+  print("Bioacoustic resonant freqs")
