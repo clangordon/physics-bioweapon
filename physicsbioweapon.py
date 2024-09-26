@@ -13,6 +13,9 @@ print("Secret ENV variables are commercially available on request")
 cardiac_arrest = os.environ.get("PHYSICS_BIOWEAPON_CARDIAC_ARREST")
 print(cardiac_arrest)
 
+heart_rate_acceleration = os.environ.get("PHYSICS_BIOWEAPON_HEART_RATE_ACCELERATION")
+print(heart_rate_acceleration)
+
 initial_heart_rate = os.environ.get("PHYSICS_BIOWEAPON_INITIAL_HEART_RATE")
 print(initial_heart_rate)
 
