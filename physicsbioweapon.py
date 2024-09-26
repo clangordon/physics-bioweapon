@@ -30,6 +30,8 @@ print(bioacoustic_resonant_freqs)
 
 if(cardiac_arrest):
   print("Cardiac arrest")
+  # We begin with a bioacoustic resonant harmonic which coincides with the normal resting heart rate;
+  # once initiated we accelerate or raise the heart rate until we reach the heart rate of heart failure.
 
 if(bioacoustic_resonant_freqs):
   print("Bioacoustic resonant freqs")
