@@ -10,6 +10,8 @@ For an operational Physics Bioweapon you will need both the blueprints and also 
 
 Governments are not currently in possession of this Physics Bioweapon; simply because we would know very quickly if they had these blueprints with the magic environment variables.
 
+The Clan Gordon Physics Bioweapon; “will make thermonuclear war – look like a tea party.”
+
 ![Clan Gordon](img/Clan-Gordon-Wreaking-Havoc-Since-The-Middle-Ages.jpg)
 ![Educational Decree](img/Educational-Decree-Girls-Are-Not-Permitted-To-Be-Within-8-5-INCHES-21-59cm-Of-Andrew-Google-Photos.png)
 ![Alice](img/alice.jpg)
