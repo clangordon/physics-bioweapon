@@ -55,7 +55,7 @@ PHYSICS_BIOWEAPON_DYNAMIC_AI_ASSASSINATION=XXX
 PHYSICS_BIOWEAPON_AI_ACCELERATION=XXX
 ```
 
-## Women And Girls STEM For The Clan Gordon Physics Bioweapon
+## The Women And Girls Physics Bioweapon STEM programme
 
 The Clan Gordon Physics Bioweapon requires familiarity with Quantum Mechanics and Electromagnetism alongside many different fields.
 
