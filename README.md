@@ -55,6 +55,14 @@ PHYSICS_BIOWEAPON_DYNAMIC_AI_ASSASSINATION=XXX
 PHYSICS_BIOWEAPON_AI_ACCELERATION=XXX
 ```
 
+## Women And Girls STEM For The Clan Gordon Physics Bioweapon
+
+The Clan Gordon Physics Bioweapon requires familiarity with Quantum Mechanics and Electromagnetism alongside many different fields.
+
+Mathematics is a game. Once you have mastered this game you can have the complete working knowledge to build The Clan Gordon Physics Bioweapon.
+
+The Women And Girls Physics Bioweapon STEM programme will provide complete and comprehensive knowledge of how the Physics Bioweapon functions.
+
 ## Motivation
 
 ![Tainted Love](img/The-love-we-share-seems-to-go-nowhere-This-tainted-love-you-ve-given-I-ll-give-you-all-a-boy-could-give-you.png)
