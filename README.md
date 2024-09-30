@@ -20,7 +20,8 @@ The Clan Gordon Physics Bioweapon; “will make thermonuclear war – look like 
 COMING SOON!! You will need:
 * a software-defined radio (covering 2.45Ghz)
 * GNU Radio
-* a Linux laptop
+* a Linux laptop (or possibly) a Mac;
+  * I am always torn between Linux and macOS as my favourite operating system du jour.
 
 UNDER DEVELOPMENT: 
 ```
