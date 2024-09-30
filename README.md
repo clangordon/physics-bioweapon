@@ -90,3 +90,5 @@ And then wrote up fictional medical records which are completely false.
 I decided I would release this (satirical) Physics Bioweapon for everyone under the AGPLv3.
 
 Have fun!!! 🤣🤣
+
+![As an aint](img/IMG_0313-Sonnets-AINT.jpg)
