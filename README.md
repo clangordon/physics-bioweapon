@@ -93,3 +93,5 @@ I decided I would release this (satirical) Physics Bioweapon for everyone under 
 Have fun!!! 🤣🤣
 
 ![As an aint](img/IMG_0313-Sonnets-AINT.jpg)
+
+![I no longer experience](img/IMG_0316-Romeo-and-Juliet-FEAR-PAIN.jpg)
