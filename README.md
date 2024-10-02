@@ -99,3 +99,13 @@ Have fun!!! 🤣🤣
 ![Nazi Health Service](img/IMG_0317-Nazi-Health-Service.jpg)
 
 ![Music is like my oxygen](img/IMG_0322-Music-is-like-my-oxygen.jpg)
+
+My preliminary 🤣🤣 response to (hot gym bunny 🤣🤤❤️) female firearms officers;
+
+I was locked inside “Nazi buildings” which don’t follow any UK laws. When I tried to ask the police for help regarding my stolen laptop and phone, I was told that no laws had been broken.
+
+The Mickey Mouse “doctors” with Mickey Mouse “degrees” would not pass psychiatric evaluation.
+
+The “Mental Health Act” is used by the “Nazi” doctors to justify “Nazi” crimes.
+
+The NHS psychiatric wards are identical to Nazi Germany camps.
