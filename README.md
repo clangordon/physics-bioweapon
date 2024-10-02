@@ -101,7 +101,7 @@ Have fun!!! 🤣🤣
 
 ![Music is like my oxygen](img/IMG_0322-Music-is-like-my-oxygen.jpg)
 
-My preliminary 🤣🤣 response to (hot gym bunny 🤣🤤❤️) female firearms officers;
+My preliminary 🤣🤣 response to (hot gym bunny 🤣🤤😘😘❤️) female firearms officers;
 
 I was locked inside “Nazi buildings” which don’t follow any UK laws. When I tried to ask the police for help regarding my stolen laptop and phone, I was told that no laws had been broken.
 
