@@ -112,3 +112,7 @@ The “Mental Health Act” is used by the “Nazi” doctors to justify “Nazi
 The NHS psychiatric wards are identical to Nazi Germany camps.
 
 The UK is covered in “Nazi” camps which operate as NHS “mental health” facilities.
+
+### Shaykh Abdalqadir as-Sufi
+
+![SAQ](img/The-Dismantling-of-the-Political-Class-Shaykh-Dr-Abdalqadir-as-Sufi-shaykhabdalqadir.com.jpg)
