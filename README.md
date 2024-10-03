@@ -110,3 +110,5 @@ The Mickey Mouse “doctors” with Mickey Mouse “degrees” would not pass ps
 The “Mental Health Act” is used by the “Nazi” doctors to justify “Nazi” crimes.
 
 The NHS psychiatric wards are identical to Nazi Germany camps.
+
+The UK is covered in “Nazi” camps which operate as NHS “mental health” facilities.
