@@ -18,6 +18,8 @@ This is achieved via multiplexing of unique bioacoustic resonant harmonic assass
 
 Defensive body armour has to be precisely engineered.
 
+The eyes would require transparent body armour.
+
 Small gaps of only millimetres would be fatal as the Physics Bioweapon mathematically targets body tissue for assassination.
 
 Quality body armour could take years to develop and manufacture.
