@@ -2,6 +2,8 @@
 
 Clan Gordon Physics Bioweapon is a free software licensed software-defined weapon.
 
+Parallel concurrent asynchronous assassinations can be achieved simply through waveform modulation according to the requirements.
+
 Commercial licensing will be available. The Clan Gordon Physics Bioweapon can be embedded into existing technology with relative ease. An affordable defensive weapon which can be easily concealed.
 
 The blueprints for the Physics Bioweapon are completely open and free to share under the AGPLv3. The secret environment variables are privately and commercially available on request.
