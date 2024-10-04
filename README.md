@@ -12,6 +12,8 @@ For an operational Physics Bioweapon you will need both the blueprints and also 
 
 Governments are not currently in possession of this Physics Bioweapon; simply because we would know very quickly if they had these blueprints with the magic environment variables.
 
+The Physics Bioweapon is a highly scalable stealth weapon with optional multiplex of unique bioacoustic resonant harmonic assassination waveforms over the top of each other.
+
 The Clan Gordon Physics Bioweapon; “will make thermonuclear war – look like a tea party.”
 
 ![Clan Gordon tartan](img/92nd_(Gordon_Highlanders)_Regiment,_and_Clan_Gordon_tartan,_tileable.png)
