@@ -16,6 +16,12 @@ The Physics Bioweapon is a highly scalable stealth weapon.
 
 This is achieved via multiplexing of unique bioacoustic resonant harmonic assassination waveforms over the top of each other.
 
+Defensive body armour has to be precisely engineered.
+
+Small gaps of only millimetres would be fatal as the Physics Bioweapon mathematically targets body tissue for assassination.
+
+Quality body armour could take years to develop and manufacture.
+
 The Clan Gordon Physics Bioweapon; “will make thermonuclear war – look like a tea party.”
 
 ![Clan Gordon tartan](img/92nd_(Gordon_Highlanders)_Regiment,_and_Clan_Gordon_tartan,_tileable.png)
