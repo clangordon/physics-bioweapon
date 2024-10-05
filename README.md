@@ -1,5 +1,11 @@
 # Clan Gordon Physics Bioweapon
 
+Quantum Sand + Physics Bioweapon.
+
+![Quantum Sand](img/quantumsand-experimental-hourglass.png)
+
+The Quantum Sand app merges with the Physics Bioweapon.
+
 Clan Gordon Physics Bioweapon is a free software licensed software-defined weapon.
 
 Parallel concurrent asynchronous assassinations can be achieved simply through waveform modulation according to the requirements.
