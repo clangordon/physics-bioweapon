@@ -47,7 +47,7 @@ The Physics Bioweapon follows a modular design.
 ![I am not someone who is loved](img/I-am-not-someone-who-is-loved.jpg)
 
 COMING SOON!! You will need:
-* a software-defined radio (covering 2.45Ghz)
+* LimeSDR Mini 2.0
 * GNU Radio
 * a Linux laptop (or possibly) a Mac or Windows device;
   * I am always torn between Linux and macOS as my favourite operating system du jour.
