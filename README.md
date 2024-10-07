@@ -12,6 +12,16 @@ Parallel concurrent asynchronous assassinations can be achieved simply through w
 
 Commercial licensing will be available. The Clan Gordon Physics Bioweapon can be embedded into existing technology with relative ease. An affordable defensive weapon which can be easily concealed.
 
+This can be used for: memory loss, dizziness, confusion, burns, squeezing, irritation, vibration, shaking, cuts, internal organs “burning” inside, cardiac arrest, insomnia, “daydream intoxication” similar to pharma psychiatric drugs, coughing up blood, dehydration.
+
+This is achieved by switching on and off at the exact waveform over the top of the resonant frequency of water.
+
+The exact waveform can resonate any individual’s body organs or tissue.
+
+This resonance of body organ or tissue can cause organ failure or cardiac arrest.
+
+Cardiac arrest can be caused by raising the pulse of the heart gradually until it is racing uncontrollably.
+
 The blueprints for the Physics Bioweapon are completely open and free to share under the AGPLv3. The secret environment variables are privately and commercially available on request.
 
 For an operational Physics Bioweapon you will need both the blueprints and also the secret environment variables.
