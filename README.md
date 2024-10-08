@@ -46,6 +46,8 @@ The Physics Bioweapon will be licensed responsibly. A subscription will allow ro
 
 The Clan Gordon Physics Bioweapon can be easily purchased or replicated. An AMD64 or ARM64 bootable USB stick which is preloaded with the Physics Bioweapon code and environment variables and then combined with the LimeSDR Mini 2.0; are therefore sufficient to replicate the Physics Bioweapon.
 
+“Bring your own stick” cloning the Physics Bioweapon within minutes.
+
 It is possible that quantum mechanical adaptation to the assassination harmonics may occur.
 
 Although it may be something like 1 person in 10 billion who can adapt and reach biological immunity to the Physics Bioweapon.
