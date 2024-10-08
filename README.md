@@ -149,7 +149,18 @@ Have fun!!! 🤣🤣
 
 ![Music is like my oxygen](img/IMG_0322-Music-is-like-my-oxygen.jpg)
 
-My preliminary 🤣🤣 response to (hot gym bunny 🤣🤤😘😘❤️) female firearms officers;
+### Kind and decent NHS staff
+Kind and decent NHS staff who helped me a lot during the “treatment” from “Nazi” Health Service doctors.
+
+#### Kind and decent AMU staff:
+
+Clare, Temi, Maddie, Naomi, Julita, Mimi (also has amazing tattoos), Freya, Elysia, Cherry.
+
+#### Kind and decent Melbury Lodge staff:
+
+Ronasa, Avha, Esther, Maggie, Laura, Larie, Samantha, Li Li, Rosy, Sian, Onyii, Becky, Tracy, Juliana, Blessing, Liv, Olivia, Brooke, Kirsty, Ellie, Charlotte, Ginga, Fiona, Thiane, Sim, Sophie, Saxon.
+
+### My preliminary 🤣🤣 response to (hot gym bunny 🤣🤤😘😘❤️) female firearms officers
 
 I was locked inside “Nazi buildings” which don’t follow any UK laws. When I tried to ask the police for help regarding my stolen laptop and phone, I was told that no laws had been broken.
 
