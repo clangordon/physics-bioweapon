@@ -152,6 +152,10 @@ Have fun!!! 🤣🤣
 ### Kind and decent NHS staff
 Kind and decent NHS staff who helped me a lot during the “treatment” from “Nazi” Health Service doctors.
 
+#### Kind and decent Bournemouth Hospital Intensive Care staff:
+
+The whole team are kind and decent.
+
 #### Kind and decent AMU staff:
 
 Clare, Temi, Maddie, Naomi, Julita, Mimi (also has amazing tattoos), Freya, Elysia, Cherry.
