@@ -154,7 +154,7 @@ Kind and decent NHS staff who helped me a lot during the “treatment” from �
 
 #### Kind and decent Bournemouth Hospital Intensive Care staff:
 
-The whole team are kind and decent.
+The whole team are kind and decent. Doctor Louise and many of her colleagues are totally kind and decent.
 
 #### Kind and decent Bournemouth Hospital AMU staff:
 
