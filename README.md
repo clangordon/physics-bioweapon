@@ -149,6 +149,10 @@ Have fun!!! 🤣🤣
 
 ![Music is like my oxygen](img/IMG_0322-Music-is-like-my-oxygen.jpg)
 
+### Nazi staff
+
+Aside from the “Nazi” Health Service doctors, Princewill at Melbury Lodge and Lynshea at Hollybank have both been behaving like “Nazi” guards inside a “Nazi” camp. If we ignore skin colour completely, the behaviour from both of them is “Nazi”. They seem to enjoy behaving like “Nazis” whilst I am locked up. The only fear they have is me posting online about their behaviour.
+
 ### Kind and decent NHS staff
 Kind and decent NHS staff who helped me a lot during the “treatment” from “Nazi” Health Service doctors.
 
