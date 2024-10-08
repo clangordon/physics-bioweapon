@@ -156,7 +156,7 @@ Kind and decent NHS staff who helped me a lot during the “treatment” from �
 
 The whole team are kind and decent.
 
-#### Kind and decent AMU staff:
+#### Kind and decent Bournemouth Hospital AMU staff:
 
 Clare, Temi, Maddie, Naomi, Julita, Mimi (also has amazing tattoos), Freya, Elysia, Cherry.
 
