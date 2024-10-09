@@ -1,5 +1,10 @@
 # Clan Gordon Physics Bioweapon
 
+NOTE: As a patriotic British citizen I would be interested in licensing the Physics Bioweapon to the UK military and UK police.
+
+![Ancestry-1](img/ancestry-1.png)
+![Ancestry-2](img/ancestry-2.png)
+
 Quantum Sand + Physics Bioweapon.
 
 ![Quantum Sand](img/quantumsand-experimental-hourglass.png)
@@ -149,10 +154,6 @@ Have fun!!! 🤣🤣
 
 ![Music is like my oxygen](img/IMG_0322-Music-is-like-my-oxygen.jpg)
 
-### Nazi Health Service staff
-
-Aside from the “Nazi” Health Service doctors, Princewill at Melbury Lodge and Lynshea at Hollybank have both been behaving like “Nazi” guards inside a “Nazi” camp. If we ignore skin colour completely, the behaviour from both of them is “Nazi”. They seem to enjoy behaving like “Nazis” whilst I am locked up. The only fear they have is me posting online about their behaviour.
-
 ### Kind and decent NHS staff
 Kind and decent NHS staff who helped me a lot during the “treatment” from “Nazi” Health Service doctors.
 
@@ -179,7 +180,3 @@ The “Mental Health Act” is used by the “Nazi” doctors to justify “Nazi
 The NHS psychiatric wards are identical to Nazi Germany camps.
 
 The UK is covered in “Nazi” camps which operate as NHS “mental health” facilities.
-
-### Shaykh Abdalqadir as-Sufi
-
-![SAQ](img/The-Dismantling-of-the-Political-Class-Shaykh-Dr-Abdalqadir-as-Sufi-shaykhabdalqadir.com.jpg)
