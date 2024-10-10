@@ -1,6 +1,6 @@
 # Clan Gordon Physics Bioweapon
 
-“My physics degree in action.” Andrew James Potter
+“My physics degree in action. It is normal for Physics grads to invent things like this.”  Andrew James Potter
 
 NOTE: As a patriotic British citizen I would be interested in licensing the Physics Bioweapon to the UK military and UK police.
 
