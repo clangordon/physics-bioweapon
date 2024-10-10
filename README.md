@@ -1,5 +1,7 @@
 # Clan Gordon Physics Bioweapon
 
+“My physics degree in action.” Andrew James Potter
+
 NOTE: As a patriotic British citizen I would be interested in licensing the Physics Bioweapon to the UK military and UK police.
 
 ![Ancestry-1](img/ancestry-1.png)
