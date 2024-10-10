@@ -15,6 +15,14 @@ The Quantum Sand app merges with the Physics Bioweapon.
 
 Clan Gordon Physics Bioweapon is a free software licensed software-defined weapon.
 
+Warfare where women and children are not harmed is now possible.
+
+This is due to the bioacoustic resonant harmonic dependency on the actual geometry of body organs and tissue; it is possible to completely prevent injury or harm to women and children with the Physics Bioweapon.
+
+Simply because the body organs or tissue of women and children follow a normal distribution which is totally different to men.
+
+Aside from not harming women and children, it is possible for the Physics Bioweapon to operate with tremendous precision.
+
 Parallel concurrent asynchronous assassinations can be achieved simply through waveform modulation according to the requirements.
 
 Commercial licensing will be available. The Clan Gordon Physics Bioweapon can be embedded into existing technology with relative ease. An affordable defensive weapon which can be easily concealed.
