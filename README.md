@@ -23,6 +23,8 @@ Simply because the body organs or tissue of women and children follow a normal d
 
 Aside from not harming women and children, it is possible for the Physics Bioweapon to operate with tremendous precision.
 
+In the scenario of a man unjustly harming women; the Physics Bioweapon can protect women and girls. The weapon can be embedded into women’s fashion accessories. This weapon can make an attacker collapse or suffer cardiac arrest.
+
 Parallel concurrent asynchronous assassinations can be achieved simply through waveform modulation according to the requirements.
 
 Commercial licensing will be available. The Clan Gordon Physics Bioweapon can be embedded into existing technology with relative ease. An affordable defensive weapon which can be easily concealed.
