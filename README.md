@@ -194,3 +194,17 @@ The “Mental Health Act” is used by the “Nazi” doctors to justify “Nazi
 The NHS psychiatric wards are identical to Nazi Germany camps.
 
 The UK is covered in “Nazi” camps which operate as NHS “mental health” facilities.
+
+### “Nazi” Health Service doctors pushing the fictional “schizophrenia” narrative
+
+#### Approximately 2013 (Abraham Cowley Unit)
+* Dr Glenn Cornish (laughed at me)
+* Dr Parsonage (laughed at me)
+* Dr Adele Bevan (wrote up the fiction that I “agreed” to having the symptoms of schizophrenia)
+
+#### 2024 (Melbury Lodge and Hollybank)
+* Dr Pippa North (continual threats of forced injections; fictional accounts about me, inventing fictional diseases)
+* Dr Emma Vaccari (continual threats of forced injections; fictional accounts about me, inventing fictional diseases)
+* Dr Ahmed (inventing fictional diseases that I do not have)
+* Dr Paul Tabraham (threatened me with legal action)
+* Dr Felix Nomuoja (not listening to anything I have to say about the fraudulent diagnosis)
