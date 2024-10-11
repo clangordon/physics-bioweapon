@@ -208,3 +208,4 @@ The UK is covered in “Nazi” camps which operate as NHS “mental health” f
 * Dr Ahmed (inventing fictional diseases that I do not have)
 * Dr Paul Tabraham (threatened me with legal action)
 * Dr Felix Nomuoja (not listening to anything I have to say about the fraudulent diagnosis)
+* Dr Nnamdi Okeke (not listening to anything I have to say about the fraudulent diagnosis)
