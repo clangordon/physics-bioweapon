@@ -166,6 +166,8 @@ Have fun!!! 🤣🤣
 
 ![Music is like my oxygen](img/IMG_0322-Music-is-like-my-oxygen.jpg)
 
+![Nobody will listen](img/IMG_0323-nobody-will-listen.jpg)
+
 ### Kind and decent NHS staff
 Kind and decent NHS staff who helped me a lot during the “treatment” from “Nazi” Health Service doctors.
 
