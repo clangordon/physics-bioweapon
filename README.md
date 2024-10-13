@@ -71,8 +71,6 @@ Although it may be something like 1 person in 10 billion who can adapt and reach
 
 Fun question: if someone develops immunity, will their children be born immune?!
 
-WARNING SATIRE!!! 🤣🤣 The “élite” men’s 🤣🤣 pink-dildo 🤣🤣 “Eton boys’ club” 🤣🤣 have no defence against the (satirical) Physics Bioweapon 🤣🤣. Ironically, their trillions of thermonuclear warheads are rendered irrelevant 🤣🤣 F-CKING HILARIOUS!! ABOUT F-CKING TIME!! 🤣🤣
-
 The Physics Bioweapon follows a modular design.
 
 * LimeSDR Mini 2.0
