@@ -211,3 +211,4 @@ The UK is covered in “Nazi” camps which operate as NHS “mental health” f
 * Dr Paul Tabraham (threatened me with legal action)
 * Dr Felix Nomuoja (not listening to anything I have to say about the fraudulent diagnosis)
 * Dr Nnamdi Okeke (not listening to anything I have to say about the fraudulent diagnosis)
+* Gareth (manager at Hollybank) tried to trick and coerce me into signing my name to legal documentation for a “tribunal” which is being forced upon me.
