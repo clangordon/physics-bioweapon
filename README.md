@@ -25,6 +25,8 @@ Aside from not harming women and children, it is possible for the Physics Biowea
 
 In the scenario of a man unjustly harming women; the Physics Bioweapon can protect women and girls. The weapon can be embedded into women’s fashion accessories. This weapon can make an attacker collapse or suffer cardiac arrest.
 
+A special edition Physics Bioweapon for Girls is planned. Once affordable enough it should make violence against women and girls fall dramatically. One or more male attackers will soon collapse or experience cardiac arrest once the weapon is activated.
+
 Parallel concurrent asynchronous assassinations can be achieved simply through waveform modulation according to the requirements.
 
 Commercial licensing will be available. The Clan Gordon Physics Bioweapon can be embedded into existing technology with relative ease. An affordable defensive weapon which can be easily concealed.
