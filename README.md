@@ -213,6 +213,6 @@ The UK is covered in “Nazi” camps which operate as NHS “mental health” f
 * Dr Nnamdi Okeke (not listening to anything I have to say about the fraudulent diagnosis)
 * Gareth (manager at Hollybank) tried to trick and coerce me into signing my name to legal documentation for a “tribunal” which is being forced upon me.
 
-#### Staff dispensing forced pharma drugs against my will for fictional diseases
+#### NHS staff dispensing forced pharma drugs against my will for fictional diseases
 * Joanne; 1000mg lithium carbonate, 300mg clozapine
 * Harry; 150mg clozapine
