@@ -217,3 +217,4 @@ The UK is covered in “Nazi” camps which operate as NHS “mental health” f
 * 20241017; Joanne; 1000mg lithium carbonate, 300mg clozapine
 * 20241018; Harry; 150mg clozapine
 * 20241018; Joanne; 1000mg lithium carbonate, 300mg clozapine
+* 20241019; Modupe; 150mg clozapine
