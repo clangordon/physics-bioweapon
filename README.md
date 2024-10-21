@@ -227,4 +227,4 @@ The UK is covered in “Nazi” camps which operate as NHS “mental health” f
 * 20241020; Elizabeth; 1000mg lithium carbonate, 300mg clozapine
 * 20241021; Jistel; 150mg clozapine
 * 20241021; Terry; lecturing me about missing breakfast
-
+* 20241021; Elizabeth; 1000mg lithium carbonate, 300mg clozapine
