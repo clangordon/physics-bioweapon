@@ -43,6 +43,8 @@ This resonance of body organ or tissue can cause organ failure or cardiac arrest
 
 Cardiac arrest can be caused by raising the pulse of the heart gradually until it is racing uncontrollably.
 
+The “magical” aspect of this weapon which makes it unique, is the waveform oscillation above and below the 2.45Ghz resonant harmonic of water. We can encode resonant harmonics which we engrave over the signal in a targeted way.
+
 The blueprints for the Physics Bioweapon are completely open and free to share under the AGPLv3. The secret environment variables are privately and commercially available on request.
 
 For an operational Physics Bioweapon you will need both the blueprints and also the secret environment variables.
