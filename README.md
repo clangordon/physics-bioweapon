@@ -100,6 +100,8 @@ COMING SOON!! You will need:
   * I am always torn between Linux and macOS as my favourite operating system du jour.
   * Windows Subsystem for Linux (WSL) has not been tested but why not.
 
+The Clan Gordon Physics Bioweapon “dev kit” will be as modular as possible. The “dev kit” is just a developer version of the Physics Bioweapon. Rapid improvements and features can be developed for this weapon. Quantum Sand is the app for geospatial defence.
+
 UNDER DEVELOPMENT: 
 ```
 cd ~/  
