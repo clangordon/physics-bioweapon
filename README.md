@@ -71,6 +71,10 @@ The Clan Gordon Physics Bioweapon can be easily purchased or replicated. An AMD6
 
 “Bring your own stick” cloning the Physics Bioweapon within minutes.
 
+Mathematical patterning of the bioacoustic resonant harmonics is sufficient to completely overwhelm the victim. For example, you can target muscle tissue at the same time as brain tissue.
+
+Escaping the Clan Gordon Physics Bioweapon becomes extremely unlikely. Once trapped the probability of survival is virtually zero.
+
 It is possible that quantum mechanical adaptation to the assassination harmonics may occur.
 
 Although it may be something like 1 person in 10 billion who can adapt and reach biological immunity to the Physics Bioweapon.
