@@ -240,3 +240,4 @@ The UK is covered in “Nazi” camps which operate as NHS “mental health” f
 * 20241023; Modupe; 150mg clozapine
 * 20241023; Dr Nnamdi Okeke; arrogantly mocked me before a forced blood test
 * 20241023; Harry; 1000mg lithium carbonate, 300mg clozapine
+* 20241024; Helen; 150mg clozapine
