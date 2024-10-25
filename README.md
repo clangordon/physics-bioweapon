@@ -225,7 +225,7 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 * Dr Felix Nomuoja (not listening to anything I have to say about the fraudulent diagnosis)
 * Dr Nnamdi Okeke (not listening to anything I have to say about the fraudulent diagnosis)
 * Gareth (manager at Hollybank) tried to trick and coerce me into signing my name to legal documentation for a “tribunal” which is being forced upon me.
-* Dr Mike Groves; wants to increase the dosage of clozapine.
+* Dr Mike Groves; wants to increase the dosage of clozapine; This is despite there being no symptoms and no diseases.
 
 #### NHS staff dispensing forced pharma drugs against my will for fictional diseases
 * 20241017; Joanne; 1000mg lithium carbonate, 300mg clozapine
@@ -245,5 +245,5 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 * 20241023; Harry; 1000mg lithium carbonate, 300mg clozapine
 * 20241024; Helen; 150mg clozapine
 * 20241024; Harry; 1000mg lithium carbonate, 300mg clozapine
-* 20241025; Dr Mike Groves; wants to increase the dosage of clozapine
+* 20241025; Dr Mike Groves; wants to increase the dosage of clozapine; This is despite there being no symptoms and no diseases.
 * 20241025; Jane; 150mg clozapine
