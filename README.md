@@ -243,3 +243,4 @@ The UK is covered in “Nazi” camps which operate as NHS “mental health” f
 * 20241024; Helen; 150mg clozapine
 * 20241024; Harry; 1000mg lithium carbonate, 300mg clozapine
 * 20241025; Dr Mike Groves; wants to increase the dosage of clozapine
+* 20241025; Jane; 150mg clozapine
