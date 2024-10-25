@@ -210,6 +210,8 @@ The UK is covered in “Nazi” camps which operate as NHS “mental health” f
 
 ### “Nazi” Health Service doctors pushing the fictional “schizophrenia” narrative
 
+For many years, continuously, I made it clear how the vicious “Nazi” Health Service slanderous psychiatric records prevent me from having a girlfriend. The fear and doubt caused by the fictional medical records has been sufficient to ruin my life for years. The “Nazi” Health Service doctors pretend that their fictional slanders don’t destroy my life. The entire NHS structure needs Denazification.
+
 #### Approximately 2013 (Abraham Cowley Unit)
 * Dr Glenn Cornish (laughed at me)
 * Dr Parsonage (laughed at me)
