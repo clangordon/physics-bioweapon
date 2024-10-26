@@ -144,6 +144,14 @@ Mathematics is a game. Once you have mastered this game you can have the complet
 
 The Women And Girls Physics Bioweapon STEM programme will provide complete and comprehensive knowledge of how the Physics Bioweapon functions.
 
+## Weaponised hospital 3d scans
+
+Nuclear magnetic resonance and relaxation biomedical imagery can now be weaponised.
+
+MRI scans can be used alongside AI models to extract the bioacoustic resonant harmonic assassination frequencies.
+
+Further to this, geospatial targeting can be automated. Cardiac arrest and other attacks can be delivered automatically.
+
 ## Motivation
 
 ![Tainted Love](img/The-love-we-share-seems-to-go-nowhere-This-tainted-love-you-ve-given-I-ll-give-you-all-a-boy-could-give-you.png)
