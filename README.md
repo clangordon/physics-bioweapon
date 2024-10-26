@@ -258,6 +258,6 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 * 20241025; Harry; 1000mg lithium carbonate, 300mg clozapine
 * 20241026; Vincent; 150mg clozapine
 
-#### Maps of Melbury Lodge and Hollybank
+#### Maps of Melbury Lodge and Hollybank; “Nazi buildings” on UK soil
 
 ![Melbury Lodge](img/Melbury-Lodge-Winchester.png) ![Hollybank](img/Hollybank-Havant.png)
