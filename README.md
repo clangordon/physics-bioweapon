@@ -144,6 +144,8 @@ Mathematics is a game. Once you have mastered this game you can have the complet
 
 The Women And Girls Physics Bioweapon STEM programme will provide complete and comprehensive knowledge of how the Physics Bioweapon functions.
 
+Alongside geospatial database knowledge; bioacoustic resonant assassination harmonics could be compiled into a geospatial database.
+
 ## Weaponised hospital 3d scans
 
 Nuclear magnetic resonance and relaxation biomedical imagery can now be weaponised.
