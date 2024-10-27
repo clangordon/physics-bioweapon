@@ -152,6 +152,10 @@ MRI scans can be used alongside AI models to extract the bioacoustic resonant ha
 
 Further to this, geospatial targeting can be automated. Cardiac arrest and other attacks can be delivered automatically.
 
+MRI scans which are not properly secured from cyberattacks, could fall into the hands of anyone who wants the bioacoustic resonant assassination harmonics.
+
+Combined with an AI model, it would be easy to convert MRI scans into assassination harmonics.
+
 ## Motivation
 
 ![Tainted Love](img/The-love-we-share-seems-to-go-nowhere-This-tainted-love-you-ve-given-I-ll-give-you-all-a-boy-could-give-you.png)
