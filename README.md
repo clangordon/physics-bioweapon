@@ -268,6 +268,7 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 * 20241027; Elizabeth; 1000mg lithium carbonate, 300mg clozapine
 * 20241028; Vincent; 150mg clozapine
 * 20241028; Elizabeth; 1000mg lithium carbonate, 300mg clozapine
+* 20241028; Modupe; 150mg clozapine
 
 #### Maps of Melbury Lodge and Hollybank; “Nazi buildings” on UK soil
 
