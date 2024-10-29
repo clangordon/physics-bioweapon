@@ -270,6 +270,8 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 * 20241028; Elizabeth; 1000mg lithium carbonate, 300mg clozapine
 * 20241029; Modupe; 150mg clozapine
 
+* 20241029; Terry wants to forcibly remove me from Hollybank within the next few hours. I am being moved to Elmleigh Hospital.
+
 #### Maps of Melbury Lodge, Hollybank and Elmleigh; “Nazi buildings” on UK soil
 
 ![Melbury Lodge](img/Melbury-Lodge-Winchester.png) ![Hollybank](img/Hollybank-Havant.png)
