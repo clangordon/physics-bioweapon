@@ -146,6 +146,10 @@ The Women And Girls Physics Bioweapon STEM programme will provide complete and c
 
 Alongside geospatial database knowledge; bioacoustic resonant assassination harmonics could be compiled into a geospatial database.
 
+The Clan Gorden Physics Bioweapon can be configured to avoid bioacoustic resonant harmonics of women and girls. Also, any individual can have their bioacoustic resonant harmonics listed as safe from harm.
+
+A simple list or ranges of frequencies to avoid harming individuals can be easily programmed into the weapon.
+
 ## Weaponised hospital 3d scans
 
 Nuclear magnetic resonance and relaxation biomedical imagery can now be weaponised.
