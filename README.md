@@ -162,6 +162,12 @@ MRI scans which are not properly secured from cyberattacks, could fall into the 
 
 Combined with an AI model, it would be easy to convert MRI scans into assassination harmonics.
 
+## Bioacoustic resonant harmonic extraction
+
+Aside from nuclear magnetic resonance and relaxation, other techniques exist to obtain the bioacoustic resonant harmonics.
+
+Radar techniques or MRI scans are possible examples.
+
 ## Motivation
 
 ![Tainted Love](img/The-love-we-share-seems-to-go-nowhere-This-tainted-love-you-ve-given-I-ll-give-you-all-a-boy-could-give-you.png)
