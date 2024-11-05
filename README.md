@@ -288,3 +288,8 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 
 ![Melbury Lodge](img/Melbury-Lodge-Winchester.png) ![Hollybank](img/Hollybank-Havant.png)
 ![Elmleigh Hospital](img/Elmleigh-Hospital-Havant.png)
+
+#### Maps of Priory Hospital Dorking
+20241105; I am being moved to the Priory Hospital in Dorking in the next few hours.
+
+![Priory Hospital Dorking](img/Priory-Hospital-Dorking.png)
