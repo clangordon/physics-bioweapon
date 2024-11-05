@@ -290,6 +290,6 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 ![Elmleigh Hospital](img/Elmleigh-Hospital-Havant.png)
 
 #### Maps of Priory Hospital Dorking
-20241105; I am being moved to the Priory Hospital in Dorking in the next few hours.
+20241105; I am being moved to the Priory Hospital in Dorking in the next few hours. I have no idea what to expect.
 
 ![Priory Hospital Dorking](img/Priory-Hospital-Dorking.png)
