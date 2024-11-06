@@ -3,6 +3,7 @@
 “My physics degree in action. It is normal for Physics grads to invent things like this.”  Andrew James Potter
 
 ![Qr code](img/qr-code.png)
+![Moi](img/Moi.jpg)
 
 NOTE: As a patriotic British citizen I would be interested in licensing the Physics Bioweapon to the UK military and UK police. Defensive geospatial positioning of the Clan Gordon Physics Bioweapon would make it virtually impossible for any military force to invade the UK. The size of any invading army would be irrelevant as the Physics Bioweapon is highly scalable at parallel asynchronous defence.
 
