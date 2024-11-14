@@ -324,17 +324,17 @@ No explanation about the “painkillers” and why…?
   * I am lying down on my bed in shock.
 
 * 20241108; 1000mg lithium carbonate, 300 mg clozapine
-* 20241109; 150 mg clozapine
+* 20241109; 150mg clozapine
 * 20241109; 1000mg lithium carbonate, 300 mg clozapine
-* 20241110; 150 mg clozapine
+* 20241110; 150mg clozapine
 * 20241110; 1000mg lithium carbonate, 300 mg clozapine
-* 20241111; 150 mg clozapine
+* 20241111; 150mg clozapine
 * 20241111; 1000mg lithium carbonate, 300 mg clozapine
-* 20241112; 150 mg clozapine
+* 20241112; 150mg clozapine
 * 20241112; 1000mg lithium carbonate, 300 mg clozapine
-* 20241113; 150 mg clozapine
+* 20241113; 150mg clozapine
 * 20241113; 1000mg lithium carbonate, 300 mg clozapine
-* 20241114; 150 mg clozapine
+* 20241114; 150mg clozapine
 
 20241114: I am being forcibly moved back to Melbury Lodge, Winchester.
 
