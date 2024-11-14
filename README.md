@@ -345,7 +345,7 @@ Earlier this year:
 * Dr Pippa North (continual threats of forced injections; fictional accounts about me, inventing fictional diseases)
 * Dr Emma Vaccari (continual threats of forced injections; fictional accounts about me, inventing fictional diseases)
 
-* 20241114; I am hoping for the best.
+* 20241114; I am hoping for the best at Melbury Lodge, Winchester.
 
 #### Maps of Melbury Lodge, Hollybank and Elmleigh; “Nazi buildings” on UK soil
 
