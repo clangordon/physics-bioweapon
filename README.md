@@ -285,6 +285,59 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 
 * 20241029; Terry wants to forcibly remove me from Hollybank within the next few hours. I am being moved to Elmleigh Hospital. Terry has hinted that my phone and laptop will be forcibly removed from me again when I arrive at Elmleigh. I am waiting for a taxi.
 
+Elmleigh Hospital, Havant
+
+* 20241029; friendly chat with Dr Sophia Watson.
+* 20241029; 1000mg lithium carbonate 300mg clozapine
+* 20241030; 150mg clozapine
+* 20241030; 1000mg lithium carbonate 300mg clozapine
+* 20241031; 150mg clozapine
+* 20241031; meeting with Dr Olu, Dr Chris, Dr Etombi; Why did I stay “voluntarily” for 4 weeks extra at the Abraham Cowley unit? My response; the same lie I get told again and again. But actually I had a broken leg and was taking codeine and olanzapine. I was too spaced out and dizzy to know what day of the week it was. I was in shock. I had a broken leg. I was very confused. With laughing doctors who mocked me. Dr Olu tried to made me feel guilty about ruining careers of staff I have named online. I pointed out my life was ruined by the fictional diagnosis against me.
+* Received letter about Section 3 sectioning. Elmleigh Hospital until 16th April 2025.
+* 20241031; 1000mg lithium carbonate 300mg clozapine
+* 20241101; 150mg clozapine
+* 20241101; 1000mg lithium carbonate, 300 mg clozapine
+* 20241102; 150mg clozapine
+* 20241102; 1000mg lithium carbonate, 300 mg clozapine
+* 20241103; 150mg clozapine
+* 20241103; 1000mg lithium carbonate, 300 mg clozapine
+* 20241104; 150mg clozapine
+* 20241104; 1000mg lithium carbonate, 300 mg clozapine
+* 20241105; 150mg clozapine
+
+Priory Hospital Dorking
+
+* 20241105; forcibly moved to Priory Hospital in Dorking. I don’t know what to expect.
+* 20241105; 1000mg lithium carbonate, 300 mg clozapine
+* Waiting for meds at 23:30. Clozapine has not arrived yet… Arrived before midnight.
+They tried to give me “painkillers”. But I spotted the extra pills which I did not recognise.
+No explanation about the “painkillers” and why…?
+* 20241106; 150mg clozapine
+* 20241106; Meeting with Dr Claire Woolcock. She will not listen to anything I have to say about the fraudulent diagnosis.
+* 20241106; 1000mg lithium carbonate, 300 mg clozapine
+* 20241107; 150mg clozapine; staff requested that I do not log anything with the pharma drugs being forced upon me.
+* 20241108; 150mg clozapine
+* 20241108; Fraudulent care plan that has just been handed to me. Where I have supposedly accepted to be treated in hospital “because I know I am mentally unwell”.
+  * “Andrew was diagnosed with Schizoaffective Disorder”.
+  *  More fabricated statements like “I’m A YouTuber”
+  * I am in shock that the Priory doctors would be propagating the same lies as the NHS doctors.
+  * I am lying down on my bed in shock.
+
+* 20241108; 1000mg lithium carbonate, 300 mg clozapine
+* 20241109; 150 mg clozapine
+* 20241109; 1000mg lithium carbonate, 300 mg clozapine
+* 20241110; 150 mg clozapine
+* 20241110; 1000mg lithium carbonate, 300 mg clozapine
+* 20241111; 150 mg clozapine
+* 20241111; 1000mg lithium carbonate, 300 mg clozapine
+* 20241112; 150 mg clozapine
+* 20241112; 1000mg lithium carbonate, 300 mg clozapine
+* 20241113; 150 mg clozapine
+* 20241113; 1000mg lithium carbonate, 300 mg clozapine
+* 20241114; 150 mg clozapine
+
+20241114: I am being forcibly moved back to Melbury Lodge, Winchester.
+
 #### Maps of Melbury Lodge, Hollybank and Elmleigh; “Nazi buildings” on UK soil
 
 ![Melbury Lodge](img/Melbury-Lodge-Winchester.png) ![Hollybank](img/Hollybank-Havant.png)
