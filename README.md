@@ -337,7 +337,7 @@ No explanation about the “painkillers” and why…?
 * 20241113; 1000mg lithium carbonate, 300 mg clozapine
 * 20241114; 150mg clozapine
 
-20241114: I am being forcibly moved back to Melbury Lodge, Winchester.
+* 20241114; I am being forcibly moved back to Melbury Lodge, Winchester.
 
 Melbury Lodge, Winchester
 
@@ -345,7 +345,7 @@ Earlier this year:
 * Dr Pippa North (continual threats of forced injections; fictional accounts about me, inventing fictional diseases)
 * Dr Emma Vaccari (continual threats of forced injections; fictional accounts about me, inventing fictional diseases)
 
-I am hoping for the best.
+* 20241114; I am hoping for the best.
 
 #### Maps of Melbury Lodge, Hollybank and Elmleigh; “Nazi buildings” on UK soil
 
