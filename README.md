@@ -339,6 +339,14 @@ No explanation about the “painkillers” and why…?
 
 20241114: I am being forcibly moved back to Melbury Lodge, Winchester.
 
+Melbury Lodge, Winchester
+
+Earlier this year:
+* Dr Pippa North (continual threats of forced injections; fictional accounts about me, inventing fictional diseases)
+* Dr Emma Vaccari (continual threats of forced injections; fictional accounts about me, inventing fictional diseases)
+
+I am hoping for the best.
+
 #### Maps of Melbury Lodge, Hollybank and Elmleigh; “Nazi buildings” on UK soil
 
 ![Melbury Lodge](img/Melbury-Lodge-Winchester.png) ![Hollybank](img/Hollybank-Havant.png)
