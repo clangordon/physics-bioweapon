@@ -294,3 +294,6 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 20241105; I am being moved to the Priory Hospital in Dorking in the next few hours. I have no idea what to expect. I did some research and it looks like it is NHS funded.
 
 ![Priory Hospital Dorking](img/Priory-Hospital-Dorking.png)
+
+![False Priory Hospital Care Plan](img/FALSE-Priory-Hospital-Dorking-Care-Plan-Which-I-Had-Zero-Involvement-Writing.png)
+
