@@ -316,6 +316,7 @@ No explanation about the “painkillers” and why…?
 * 20241106; Meeting with Dr Claire Woolcock. She will not listen to anything I have to say about the fraudulent diagnosis.
 * 20241106; 1000mg lithium carbonate, 300 mg clozapine
 * 20241107; 150mg clozapine; staff requested that I do not log anything with the pharma drugs being forced upon me.
+* 20241107; 1000mg lithium carbonate, 300 mg clozapine
 * 20241108; 150mg clozapine
 * 20241108; Fraudulent care plan that has just been handed to me. Where I have supposedly accepted to be treated in hospital “because I know I am mentally unwell”.
   * “Andrew was diagnosed with Schizoaffective Disorder”.
