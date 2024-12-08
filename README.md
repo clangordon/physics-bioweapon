@@ -85,7 +85,7 @@ Fun question: if someone develops immunity, will their children be born immune?!
 The Physics Bioweapon follows a modular design.
 
 * LimeSDR Mini 2.0
-* An AI accelerator SBC (possibly an NVIDIA Jetson)
+* An AI accelerator SBC (possibly an NVIDIA Jetson Orin Nano, or a Chinese alternative)
 * More to follow.
 
 ![Clan Gordon tartan](img/92nd_(Gordon_Highlanders)_Regiment,_and_Clan_Gordon_tartan,_tileable.png)
