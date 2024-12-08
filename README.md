@@ -85,6 +85,7 @@ Fun question: if someone develops immunity, will their children be born immune?!
 The Physics Bioweapon follows a modular design.
 
 * LimeSDR Mini 2.0
+* An AMD Ryzen SBC
 * An AI accelerator SBC (possibly an NVIDIA Jetson Orin Nano, or a Chinese alternative)
 * More to follow.
 
