@@ -89,6 +89,8 @@ The Physics Bioweapon follows a modular design.
 * An AI accelerator SBC (possibly an NVIDIA Jetson Orin Nano, or a Chinese alternative)
 * More to follow.
 
+Note: The only blocker at present, is reliable Gentoo Linux support. The NVIDIA Jetson Orin Nano is a favourite but Gentoo Linux is an unknown.
+
 ![Clan Gordon tartan](img/92nd_(Gordon_Highlanders)_Regiment,_and_Clan_Gordon_tartan,_tileable.png)
 ![Clan Gordon](img/Clan-Gordon-Wreaking-Havoc-Since-The-Middle-Ages.jpg)
 ![Educational Decree](img/Educational-Decree-Girls-Are-Not-Permitted-To-Be-Within-8-5-INCHES-21-59cm-Of-Andrew-Google-Photos.png)
