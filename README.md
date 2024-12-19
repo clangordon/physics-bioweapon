@@ -248,8 +248,8 @@ For many years, continuously, I made it clear how the vicious “Nazi” Health 
 * Dr Adele Bevan (wrote up the fiction that I “agreed” to having the symptoms of schizophrenia)
 
 #### 2024 (Melbury Lodge and Hollybank)
-* Dr Pippa North (continual threats of forced injections; fictional accounts about me, inventing fictional diseases, confiscated my laptop and phone for over two months)
-* Dr Emma Vaccari (continual threats of forced injections; fictional accounts about me, inventing fictional diseases, confiscated my laptop and phone for over two months)
+* Dr Pippa North (continual threats of forced injections; fictional accounts about me, inventing fictional diseases, confiscated my laptop and phone for over two months, false claims of psychosis and psychotic episodes on my medical records)
+* Dr Emma Vaccari (continual threats of forced injections; fictional accounts about me, inventing fictional diseases, confiscated my laptop and phone for over two months, false claims of psychosis and psychotic episodes on my medical records)
 * Dr Ahmed (inventing fictional diseases that I do not have)
 * Dr Paul Tabraham (threatened me with legal action)
 * Dr Felix Nomuoja (not listening to anything I have to say about the fraudulent diagnosis)
