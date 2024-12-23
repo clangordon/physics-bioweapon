@@ -82,6 +82,10 @@ Although it may be something like 1 person in 10 billion who can adapt and reach
 
 Fun question: if someone develops immunity, will their children be born immune?!
 
+Additionally, the Clan Gordon Physics Bioweapon makes it possible to disable electronic devices using a similar technique.
+
+Drones and other devices can be disabled remotely. This would cause drones to simply fall out of the sky.
+
 The Physics Bioweapon follows a modular design.
 
 * LimeSDR Mini 2.0
