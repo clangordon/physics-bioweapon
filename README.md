@@ -228,7 +228,7 @@ Clare, Temi, Maddie, Naomi, Julita, Mimi (also has amazing tattoos), Freya, Elys
 
 #### Kind and decent Melbury Lodge staff:
 
-Ronasa, Avha, Esther, Maggie, Laura, Larie, Samantha, Li Li, Rosy, Sian, Onyii, Becky, Tracy, Juliana, Blessing, Liv, Olivia, Brooke, Kirsty, Ellie, Charlotte, Ginga, Fiona, Thiane, Sim, Sophie, Saxon.
+Ronasa, Avha, Esther, Maggie, Laura, Lerie, Samantha, Li Li, Rosy, Sian, Becky, Tracy, Juliana, Blessing, Liv, Olivia, Brooke, Kirsty, Ellie, Charlotte, Ginga, Fiona, Thiane, Sim, Sophie, Saxon.
 
 ### My preliminary 🤣🤣 response to (hot gym bunny 🤣🤤😘😘❤️) female firearms officers
 
