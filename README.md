@@ -1,4 +1,4 @@
-# Clan Gordon Physics Bioweapon
+# Quantum Sand + Clan Gordon Physics Bioweapon
 
 “My physics degree in action. It is normal for Physics grads to invent things like this.”  Andrew James Potter
 
@@ -10,7 +10,7 @@ NOTE: As a patriotic British citizen I would be interested in licensing the Phys
 ![Ancestry-1](img/ancestry-1.png)
 ![Ancestry-2](img/ancestry-2.png)
 
-Quantum Sand + Physics Bioweapon.
+Quantum Sand + Clan Gordon Physics Bioweapon
 
 ![Quantum Sand](img/quantumsand-experimental-hourglass.png)
 
