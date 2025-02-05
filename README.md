@@ -34,7 +34,7 @@ Parallel concurrent asynchronous assassinations can be achieved simply through w
 
 Commercial licensing will be available. The Clan Gordon Physics Bioweapon can be embedded into existing technology with relative ease. An affordable defensive weapon which can be easily concealed.
 
-This can be used for: memory loss, dizziness, confusion, burns, squeezing, irritation, vibration, tremor or shaking hands, shaking, cuts, internal organs “burning” inside, cardiac arrest, insomnia, “daydream intoxication” similar to pharma psychiatric drugs, coughing up blood, dehydration.
+This can be used for: memory loss, dizziness, confusion, burns, squeezing, irritation, vibration, tremor or shaking hands, shaking, cuts, internal organs “burning” inside, cardiac arrest, insomnia, “daydream intoxication” similar to pharma psychiatric drugs, coughing up blood, dehydration and jugular vein compression.
 
 This is achieved by switching on and off at the exact waveform over the top of the resonant frequency of water.
 
